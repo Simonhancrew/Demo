@@ -1,2 +1,7 @@
 #folders
 /.ipynb_checkpoints
+
+
+# files
+*.txt
+*.log
