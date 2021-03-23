@@ -5,3 +5,5 @@
 
 ## [FizzBuzz](/FizzBuzz.ipynb)
 一个用torch训练的fizzbuzz游戏
+
+## [WordEmbedding](/word2vec.ipynb)
